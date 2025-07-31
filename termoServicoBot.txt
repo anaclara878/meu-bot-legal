@@ -1,0 +1,19 @@
+# Termos de Serviço - Meu Bot
+
+## 1. Aceitação dos Termos
+Ao usar este bot, você concorda com estes Termos de Serviço.
+
+## 2. Uso do Bot
+- O bot deve ser usado de forma legal e em conformidade com as regras do Discord.
+- É proibido utilizar o bot para spam, assédio, atividades ilegais ou qualquer comportamento nocivo.
+- O desenvolvedor pode suspender ou encerrar o acesso ao bot a qualquer momento.
+
+## 3. Disponibilidade
+- O bot é fornecido "como está". Não há garantias de funcionamento contínuo ou suporte técnico.
+- Funções e comandos podem ser alterados ou removidos sem aviso prévio.
+
+## 4. Limitação de Responsabilidade
+- O desenvolvedor não é responsável por qualquer dano direto ou indireto decorrente do uso do bot.
+
+## 5. Alterações nos Termos
+- Estes Termos podem ser atualizados a qualquer momento. Alterações serão informadas no servidor oficial ou no repositório do bot.
