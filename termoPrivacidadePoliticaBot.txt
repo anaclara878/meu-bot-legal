@@ -1,0 +1,19 @@
+# Política de Privacidade - Meu Bot
+
+## 1. Coleta de Dados  
+Este bot pode coletar dados básicos para funcionar corretamente, como IDs de usuário e mensagens enviadas no servidor.  
+
+## 2. Uso dos Dados  
+Os dados coletados são usados exclusivamente para fornecer as funcionalidades do bot e melhorar a experiência do usuário.  
+
+## 3. Compartilhamento de Dados  
+Não compartilhamos seus dados com terceiros.  
+
+## 4. Armazenamento dos Dados  
+Os dados são armazenados com segurança e apenas enquanto necessário para o funcionamento do bot.  
+
+## 5. Direitos do Usuário  
+Você pode solicitar a exclusão dos seus dados a qualquer momento, entrando em contato com o desenvolvedor.  
+
+## 6. Alterações na Política  
+Podemos atualizar esta política periodicamente. Quaisquer mudanças serão informadas no servidor oficial.
